@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="*OP**T*-1上午在这里签字的是知识信息网络通讯技术和脱氧核糖核酸生物技术两个项目，*pro*同时还签订了语言教学交流合作协议。" id="00004">
+		<xj>
+			<sbj>
+				<sbj>
+					<x/>
+				</sbj>
+				<adv>
+					<t>上午</t>
+				</adv>
+				<adv>
+					<pp>
+						<p>在</p>
+					</pp>
+					<r>这里</r>
+				</adv>
+				<prd scp="V">
+					<v>签字</v>
+				</prd>
+				<uu>
+					<u>的</u>
+				</uu>
+			</sbj>
+			<prd scp="VO">
+				<v>是</v>
+			</prd>
+			<prd>
+				<x/>
+			</prd>
+			<obj>
+				<n>知识</n>
+				<n>信息</n>
+				<n>网络</n>
+				<n>通讯</n>
+				<n>技术</n>
+				<cc fun="COO">
+					<c>和</c>
+				</cc>
+				<n>脱氧核糖核酸</n>
+				<n>生物</n>
+				<n>技术</n>
+				<cc fun="APP"/>
+				<att>
+					<m>两</m>
+					<q>个</q>
+				</att>
+				<n>项目</n>
+				<w>，</w>
+			</obj>
+			<sbj>
+				<x/>
+			</sbj>
+			<adv>
+				<d>同时</d>
+			</adv>
+			<adv>
+				<d>还</d>
+			</adv>
+			<prd scp="VO">
+				<v>签订</v>
+			</prd>
+			<uv>
+				<u>了</u>
+			</uv>
+			<obj>
+				<n>语言</n>
+				<n>教学</n>
+				<n>交流</n>
+				<n>合作</n>
+				<n>协议</n>
+				<w>。</w>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

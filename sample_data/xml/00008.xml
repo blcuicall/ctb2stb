@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="世界学习组织董事长朱迪·梅罗希望*pro*在今年底与上海建立一个合资的教育机构。" id="00008">
+		<xj>
+			<sbj>
+				<n>世界</n>
+				<n>学习</n>
+				<n>组织</n>
+				<n>董事长</n>
+				<cc fun="APP"/>
+				<n>朱迪·梅罗</n>
+			</sbj>
+			<prd scp="VO">
+				<v>希望</v>
+			</prd>
+			<obj>
+				<sbj>
+					<x/>
+				</sbj>
+				<adv>
+					<pp>
+						<p>在</p>
+					</pp>
+					<t>今年</t>
+					<ff>
+						<f>底</f>
+					</ff>
+				</adv>
+				<adv>
+					<pp>
+						<p>与</p>
+					</pp>
+					<n>上海</n>
+				</adv>
+				<prd scp="VO">
+					<v>建立</v>
+				</prd>
+				<obj>
+					<att>
+						<m>一</m>
+						<q>个</q>
+					</att>
+					<att>
+						<a>合资</a>
+						<uu>
+							<u>的</u>
+						</uu>
+					</att>
+					<n>教育</n>
+					<n>机构</n>
+					<w>。</w>
+				</obj>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

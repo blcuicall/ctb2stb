@@ -1,0 +1,29 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <n>新华社</n>
+    </sbj>
+    <adv>
+      <n>上海</n>
+    </adv>
+    <adv>
+      <t mod="t2 t4">
+        <t>八月</t>
+        <t>三十一日</t>
+      </t>
+    </adv>
+    <prd scp="V">
+      <n>电</n>
+    </prd>
+    <ind>
+      <w>（</w>
+      <n sen="001">记者</n>
+      <cc fun="APP" />
+      <n>白国良</n>
+      <w>、</w>
+      <cc fun="COO" />
+      <n>夏儒阁</n>
+      <w>）</w>
+    </ind>
+  </xj>
+</ju>

@@ -1,0 +1,74 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <pp>
+        <p sen="103">据</p>
+      </pp>
+      <p mod="n2 n2">
+        <n>美方</n>
+        <n sen="001">人员</n>
+      </p>
+    </sbj>
+    <prd scp="V">
+      <v sen="101">说</v>
+      <w>，</w>
+    </prd>
+  </xj>
+  <xj>
+    <sbj>
+      <att>
+        <adv>
+          <t sen="001">今天</t>
+        </adv>
+        <prd scp="V">
+          <v sen="001">签订</v>
+        </prd>
+        <uu>
+          <u sen="001">的</u>
+        </uu>
+      </att>
+      <att>
+        <a mod="m q">
+          <m sen="001">三</m>
+          <q sen="101">个</q>
+        </a>
+      </att>
+      <n sen="001">项目</n>
+      <w>，</w>
+    </sbj>
+    <prd scp="VO">
+      <v>得到</v>
+    </prd>
+    <obj>
+      <att>
+        <att>
+          <prd scp="VO">
+            <v sen="001">前来</v>
+          </prd>
+          <obj>
+            <n>上海</n>
+          </obj>
+          <uu>
+            <u sen="001">的</u>
+          </uu>
+        </att>
+        <n mod="n2 n2 n2">
+          <n>美国</n>
+          <n sen="001">商务</n>
+          <n>部长</n>
+        </n>
+        <cc fun="APP" />
+        <n>布朗</n>
+        <uu>
+          <u sen="001">的</u>
+        </uu>
+      </att>
+      <n sen="001">关心</n>
+      <cc fun="COO">
+        <c sen="106">与</c>
+      </cc>
+      <n sen="002">支持</n>
+      <w>。</w>
+    </obj>
+  </xj>
+</ju>

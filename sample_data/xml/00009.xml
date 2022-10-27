@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="据美方人员说，*OP**T*-1今天签订的三个项目，得到*OP**T*-2前来上海的美国商务部长布朗的关心与支持。" id="00009">
+		<xj>
+			<adv>
+				<pp>
+					<p>据</p>
+				</pp>
+				<sbj>
+					<n>美方</n>
+					<n>人员</n>
+				</sbj>
+				<prd scp="V">
+					<v>说</v>
+					<w>，</w>
+				</prd>
+			</adv>
+			<sbj>
+				<att>
+					<sbj>
+						<x/>
+					</sbj>
+					<adv>
+						<t>今天</t>
+					</adv>
+					<prd scp="V">
+						<v>签订</v>
+					</prd>
+					<uu>
+						<u>的</u>
+					</uu>
+				</att>
+				<att>
+					<m>三</m>
+					<q>个</q>
+				</att>
+				<n>项目</n>
+				<w>，</w>
+			</sbj>
+			<prd scp="VO">
+				<v>得到</v>
+			</prd>
+			<obj>
+				<att>
+					<att>
+						<sbj>
+							<x/>
+						</sbj>
+						<prd scp="VO">
+							<v>前来</v>
+						</prd>
+						<obj>
+							<n>上海</n>
+						</obj>
+						<uu>
+							<u>的</u>
+						</uu>
+					</att>
+					<n>美国</n>
+					<n>商务</n>
+					<n>部长</n>
+					<cc fun="APP"/>
+					<n>布朗</n>
+					<uu>
+						<u>的</u>
+					</uu>
+				</att>
+				<n>关心</n>
+				<cc fun="COO">
+					<c>与</c>
+				</cc>
+				<n>支持</n>
+				<w>。</w>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

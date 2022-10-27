@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="中美在沪签订高科技合作协议" id="00001">
+		<xj>
+			<sbj>
+				<n>中</n>
+				<n>美</n>
+			</sbj>
+			<adv>
+				<pp>
+					<p>在</p>
+				</pp>
+				<n>沪</n>
+			</adv>
+			<prd scp="VO">
+				<v>签订</v>
+			</prd>
+			<obj>
+				<att>
+					<a>高</a>
+				</att>
+				<n>科技</n>
+				<n>合作</n>
+				<n>协议</n>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

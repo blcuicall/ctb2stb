@@ -1,0 +1,80 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <r sen="001">他</r>
+    </sbj>
+    <adv>
+      <d>还</d>
+    </adv>
+    <prd scp="VO">
+      <v sen="001">期望</v>
+    </prd>
+    <obj>
+      <n mod="n n">
+        <n>美</n>
+        <n sen="003">中</n>
+      </n>
+      <ff>
+        <f>之间</f>
+      </ff>
+    </obj>
+    <cc fun="PVT" />
+    <prd scp="VO">
+      <v>建立</v>
+    </prd>
+    <obj>
+      <n mod="n2 a2 n2 n2">
+        <n sen="001">电子</n>
+        <a sen="001">高速</a>
+        <n sen="001">信息</n>
+        <n sen="001">公路</n>
+      </n>
+      <w>，</w>
+    </obj>
+  </xj>
+  <xj>
+    <sbj>
+      <x></x>
+    </sbj>
+    <prd scp="VO">
+      <v sen="003">使</v>
+    </prd>
+    <obj>
+      <n mod="n2 n2 n3">
+        <n>纽约</n>
+        <n sen="001">股票</n>
+        <n sen="001">交易所</n>
+      </n>
+      <cc fun="COO">
+        <c sen="106">与</c>
+      </cc>
+      <n mod="n2 n2 n3">
+        <n>上海</n>
+        <n sen="001">证券</n>
+        <n sen="001">交易所</n>
+      </n>
+    </obj>
+    <cc fun="PVT" />
+    <prd scp="V">
+      <v sen="104">能</v>
+    </prd>
+    <cc fun="SYN" />
+    <adv>
+      <d sen="001">早日</d>
+    </adv>
+    <prd scp="VO">
+      <v sen="001">实现</v>
+    </prd>
+    <obj>
+      <n>交易</n>
+      <cc fun="COO">
+        <c sen="005">及</c>
+      </cc>
+      <n mod="n2 n2">
+        <n sen="001">信息</n>
+        <n sen="002">交流</n>
+      </n>
+      <w>。</w>
+    </obj>
+  </xj>
+</ju>

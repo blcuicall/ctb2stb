@@ -1,0 +1,56 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <n mod="n2 n2 n2 n3">
+        <n>世界</n>
+        <n sen="001">学习</n>
+        <n>组织</n>
+        <n sen="001">董事长</n>
+      </n>
+      <cc fun="APP" />
+      <n>朱迪·梅罗</n>
+    </sbj>
+    <prd scp="VO">
+      <v sen="001">希望</v>
+    </prd>
+    <obj>
+      <adv>
+        <pp>
+          <p sen="007">在</p>
+        </pp>
+        <t sen="001">今年</t>
+        <ff>
+          <f>底</f>
+        </ff>
+      </adv>
+      <adv>
+        <pp>
+          <p>与</p>
+        </pp>
+        <n>上海</n>
+      </adv>
+      <prd scp="VO">
+        <v sen="001">建立</v>
+      </prd>
+      <obj>
+        <att>
+          <m mod="m-q">
+            <m sen="001">一</m>
+            <q sen="101">个</q>
+          </m>
+        </att>
+        <att>
+          <a sen="001">合资</a>
+          <uu>
+            <u sen="001">的</u>
+          </uu>
+        </att>
+        <x mod="n2 n2">
+          <n sen="001">教育</n>
+          <n sen="002">机构</n>
+        </x>
+        <w>。</w>
+      </obj>
+    </obj>
+  </xj>
+</ju>

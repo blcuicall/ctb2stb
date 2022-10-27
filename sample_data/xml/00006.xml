@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="知识信息网络公司主席ＣＥ麦奈特在签字仪式上说，中美合作高科技项目的签订，具有*OP**T*-1重要的意义。" id="00006">
+		<xj>
+			<sbj>
+				<n>知识</n>
+				<n>信息</n>
+				<n>网络</n>
+				<n>公司</n>
+				<n>主席</n>
+				<cc fun="APP"/>
+				<n>ＣＥ麦奈特</n>
+			</sbj>
+			<adv>
+				<pp>
+					<p>在</p>
+				</pp>
+				<n>签字</n>
+				<n>仪式</n>
+				<ff>
+					<f>上</f>
+				</ff>
+			</adv>
+			<prd scp="VO">
+				<v>说</v>
+				<w>，</w>
+			</prd>
+		</xj>
+		<xj/>
+		<xj>
+			<sbj>
+				<att>
+					<n>中</n>
+					<n>美</n>
+					<n>合作</n>
+					<att>
+						<a>高</a>
+					</att>
+					<n>科技</n>
+					<n>项目</n>
+					<uu>
+						<u>的</u>
+					</uu>
+				</att>
+				<n>签订</n>
+				<w>，</w>
+			</sbj>
+		</xj>
+		<xj>
+			<prd scp="VO">
+				<v>具有</v>
+			</prd>
+			<obj>
+				<att>
+					<sbj>
+						<x/>
+					</sbj>
+					<a>重要</a>
+					<uu>
+						<u>的</u>
+					</uu>
+				</att>
+				<n>意义</n>
+				<w>。</w>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

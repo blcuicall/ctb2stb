@@ -1,0 +1,65 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <n mod="n2 n2 n2 n2 n2">
+        <n>知识</n>
+        <n sen="001">信息</n>
+        <n sen="002">网络</n>
+        <n sen="001">公司</n>
+        <n sen="002">主席</n>
+      </n>
+      <cc fun="APP" />
+      <n>ＣＥ麦奈特</n>
+      <cc fun="APP" />
+      <x></x>
+    </sbj>
+    <adv>
+      <pp>
+        <p sen="007">在</p>
+      </pp>
+      <n mod="n2 n2">
+        <n sen="001">签字</n>
+        <n sen="001">仪式</n>
+      </n>
+      <ff>
+        <f>上</f>
+      </ff>
+    </adv>
+    <prd scp="V">
+      <v sen="101">说</v>
+      <w>，</w>
+    </prd>
+  </xj>
+  <xj>
+    <sbj>
+      <att>
+        <n mod="n n n2 a n2 n2">
+          <n sen="003">中</n>
+          <n>美</n>
+          <n sen="001">合作</n>
+          <a sen="004">高</a>
+          <n sen="001">科技</n>
+          <n sen="001">项目</n>
+        </n>
+        <uu>
+          <u sen="001">的</u>
+        </uu>
+      </att>
+      <v sen="001">签订</v>
+      <w>，</w>
+    </sbj>
+    <prd scp="VO">
+      <v sen="001">具有</v>
+    </prd>
+    <obj>
+      <att>
+        <a sen="001">重要</a>
+        <uu>
+          <u sen="001">的</u>
+        </uu>
+      </att>
+      <n sen="002">意义</n>
+      <w>。</w>
+    </obj>
+  </xj>
+</ju>

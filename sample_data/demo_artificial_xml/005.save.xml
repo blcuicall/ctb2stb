@@ -1,0 +1,83 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <att>
+        <r mod="r↗m-q">
+          <r sen="001">这</r>
+          <m sen="001">三</m>
+          <q sen="101">个</q>
+        </r>
+      </att>
+      <n sen="001">项目</n>
+    </sbj>
+    <prd scp="V">
+      <v sen="202">是</v>
+    </prd>
+    <cc fun="SYN" />
+    <adv>
+      <d sen="103">分别</d>
+    </adv>
+    <prd scp="V">
+      <sbj>
+        <pp>
+          <p>由</p>
+        </pp>
+        <n mod="n3 n2 n2 n2 n2 n2 n2 n3 n2 n2">
+          <n>国务院</n>
+          <n sen="001">发展</n>
+          <n sen="001">研究</n>
+          <n>中心</n>
+          <n sen="001">国际</n>
+          <n sen="001">技术</n>
+          <n>经济</n>
+          <n>研究所</n>
+          <n>上海</n>
+          <n>分所</n>
+        </n>
+        <cc fun="COO">
+          <c sen="103">和</c>
+        </cc>
+        <n mod="n3 n2 v2 n2 n2">
+          <n>上海市</n>
+          <n>浦东</n>
+          <v sen="001">继续</v>
+          <n sen="001">教育</n>
+          <n>中心</n>
+        </n>
+        <w>，</w>
+      </sbj>
+      <adv>
+        <pp>
+          <p>与</p>
+        </pp>
+        <n mod="n2 n2 n2 n2 n2">
+          <n>美国</n>
+          <n>知识</n>
+          <n sen="001">信息</n>
+          <n sen="002">网络</n>
+          <n sen="001">公司</n>
+        </n>
+        <w>、</w>
+        <cc fun="COO" />
+        <n mod="n2 n2 n2">
+          <n>世界</n>
+          <n sen="001">学习</n>
+          <n>组织</n>
+        </n>
+        <w>、</w>
+        <cc fun="COO" />
+        <n mod="n3 n2">
+          <n>海赛克</n>
+          <n sen="001">公司</n>
+        </n>
+      </adv>
+      <prd scp="V">
+        <v sen="001">签订</v>
+      </prd>
+    </prd>
+    <uv>
+      <u sen="004">的</u>
+      <w>。</w>
+    </uv>
+  </xj>
+</ju>

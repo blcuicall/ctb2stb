@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<jbw>
+	<ju txt="他还期望美中之间建立电子高速信息公路，*pro*使纽约股票交易所与上海证券交易所*PRO*能早日实现交易及信息交流。" id="00007">
+		<xj>
+			<sbj>
+				<r>他</r>
+			</sbj>
+			<adv>
+				<d>还</d>
+			</adv>
+			<prd scp="VO">
+				<v>期望</v>
+			</prd>
+			<obj>
+				<sbj>
+					<n>美</n>
+					<n>中</n>
+					<ff>
+						<f>之间</f>
+					</ff>
+				</sbj>
+				<prd scp="VO">
+					<v>建立</v>
+				</prd>
+				<obj>
+					<n>电子</n>
+					<att>
+						<a>高速</a>
+					</att>
+					<n>信息</n>
+					<n>公路</n>
+					<w>，</w>
+				</obj>
+			</obj>
+		</xj>
+		<xj/>
+		<xj>
+			<sbj>
+				<x/>
+			</sbj>
+			<prd scp="VO">
+				<v>使</v>
+			</prd>
+			<obj>
+				<n>纽约</n>
+				<n>股票</n>
+				<n>交易所</n>
+				<cc fun="COO">
+					<c>与</c>
+				</cc>
+				<n>上海</n>
+				<n>证券</n>
+				<n>交易所</n>
+			</obj>
+			<cc fun="PVT"/>
+			<sbj>
+				<x/>
+			</sbj>
+			<prd scp="V">
+				<v>能</v>
+			</prd>
+			<cc fun="SYN"/>
+			<adv>
+				<d>早日</d>
+			</adv>
+			<prd scp="VO">
+				<v>实现</v>
+			</prd>
+			<obj>
+				<n>交易</n>
+				<cc fun="COO">
+					<c>及</c>
+				</cc>
+				<n>信息</n>
+				<n>交流</n>
+				<w>。</w>
+			</obj>
+		</xj>
+	</ju>
+</jbw>

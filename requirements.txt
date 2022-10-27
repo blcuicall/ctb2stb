@@ -1,0 +1,4 @@
+lxml==4.9.1
+openpyxl==3.0.10
+tqdm==4.46.0
+pandas==1.2.4

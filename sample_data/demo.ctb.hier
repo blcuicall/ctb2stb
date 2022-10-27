@@ -1,0 +1,457 @@
+TOP
+| S
+| | IP-HLN
+| | | NP-PN-SBJ
+| | | | NR_中_terminal
+| | | | NR_美_terminal
+| | | VP
+| | | | PP-LOC
+| | | | | P_在_terminal
+| | | | | NP-PN
+| | | | | | NR_沪_terminal
+| | | | VP
+| | | | | VV_签订_terminal
+| | | | | NP-OBJ
+| | | | | | NP
+| | | | | | | NP
+| | | | | | | | ADJP
+| | | | | | | | | JJ_高_terminal
+| | | | | | | | NP
+| | | | | | | | | NN_科技_terminal
+| | | | | | | NP
+| | | | | | | | NN_合作_terminal
+| | | | | | NP
+| | | | | | | NN_协议_terminal
+
+TOP
+| S
+| | FRAG
+| | | NR_新华社_terminal
+| | | NR_上海_terminal
+| | | NT_八月_terminal
+| | | NT_三十一日_terminal
+| | | NN_电_terminal
+| | | PU_（_terminal
+| | | NN_记者_terminal
+| | | NR_白国良_terminal
+| | | PU_、_terminal
+| | | NR_夏儒阁_terminal
+| | | PU_）_terminal
+
+TOP
+| S
+| | IP
+| | | NP-SBJ
+| | | | PU_“_terminal
+| | | | NP
+| | | | | NP-PN
+| | | | | | NR_中_terminal
+| | | | | | NR_美_terminal
+| | | | | NP
+| | | | | | NN_合作_terminal
+| | | | NP
+| | | | | NP
+| | | | | | ADJP
+| | | | | | | JJ_高_terminal
+| | | | | | NP
+| | | | | | | NN_科技_terminal
+| | | | | NP
+| | | | | | NN_项目_terminal
+| | | | NP
+| | | | | NN_签字_terminal
+| | | | | NN_仪式_terminal
+| | | | PU_”_terminal
+| | | VP
+| | | | NP-TMP
+| | | | | NT_今天_terminal
+| | | | PP-LOC
+| | | | | P_在_terminal
+| | | | | NP-PN
+| | | | | | NR_上海_terminal
+| | | | VP
+| | | | | VV_举行_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | IP
+| | | | NP-SBJ
+| | | | | CP
+| | | | | | WHNP-1
+| | | | | | | -NONE-_*OP*_terminal
+| | | | | | CP
+| | | | | | | IP
+| | | | | | | | NP-SBJ
+| | | | | | | | | -NONE-_*T*-1_terminal
+| | | | | | | | VP
+| | | | | | | | | NP-TMP
+| | | | | | | | | | NT_上午_terminal
+| | | | | | | | | PP-LOC
+| | | | | | | | | | P_在_terminal
+| | | | | | | | | | NP
+| | | | | | | | | | | PN_这里_terminal
+| | | | | | | | | VP
+| | | | | | | | | | VV_签字_terminal
+| | | | | | | DEC_的_terminal
+| | | | VP
+| | | | | VC_是_terminal
+| | | | | NP-PRD
+| | | | | | NP-APP
+| | | | | | | NN_知识_terminal
+| | | | | | | NN_信息_terminal
+| | | | | | | NN_网络_terminal
+| | | | | | | NN_通讯_terminal
+| | | | | | | NN_技术_terminal
+| | | | | | | CC_和_terminal
+| | | | | | | NN_脱氧核糖核酸_terminal
+| | | | | | | NN_生物_terminal
+| | | | | | | NN_技术_terminal
+| | | | | | QP
+| | | | | | | CD_两_terminal
+| | | | | | | CLP
+| | | | | | | | M_个_terminal
+| | | | | | NP
+| | | | | | | NN_项目_terminal
+| | | PU_，_terminal
+| | | IP
+| | | | NP-SBJ
+| | | | | -NONE-_*pro*_terminal
+| | | | VP
+| | | | | ADVP
+| | | | | | AD_同时_terminal
+| | | | | ADVP
+| | | | | | AD_还_terminal
+| | | | | VP
+| | | | | | VV_签订_terminal
+| | | | | | AS_了_terminal
+| | | | | | NP-OBJ
+| | | | | | | NN_语言_terminal
+| | | | | | | NN_教学_terminal
+| | | | | | | NN_交流_terminal
+| | | | | | | NN_合作_terminal
+| | | | | | | NN_协议_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | NP-SBJ
+| | | | DP
+| | | | | DT_这_terminal
+| | | | | QP
+| | | | | | CD_三_terminal
+| | | | | | CLP
+| | | | | | | M_个_terminal
+| | | | NP
+| | | | | NN_项目_terminal
+| | | VP
+| | | | VC_是_terminal
+| | | | NP-PRD
+| | | | | CP
+| | | | | | WHNP-1
+| | | | | | | -NONE-_*OP*_terminal
+| | | | | | CP
+| | | | | | | IP
+| | | | | | | | NP-SBJ
+| | | | | | | | | -NONE-_*T*-1_terminal
+| | | | | | | | VP
+| | | | | | | | | ADVP
+| | | | | | | | | | AD_分别_terminal
+| | | | | | | | | PP-LGS
+| | | | | | | | | | P_由_terminal
+| | | | | | | | | | NP
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NN_国务院_terminal
+| | | | | | | | | | | | NN_发展_terminal
+| | | | | | | | | | | | NN_研究_terminal
+| | | | | | | | | | | | NN_中心_terminal
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NP-PN
+| | | | | | | | | | | | | NN_国际_terminal
+| | | | | | | | | | | | | NN_技术_terminal
+| | | | | | | | | | | | | NN_经济_terminal
+| | | | | | | | | | | | | NN_研究所_terminal
+| | | | | | | | | | | | NP-PN
+| | | | | | | | | | | | | NR_上海_terminal
+| | | | | | | | | | | | NP
+| | | | | | | | | | | | | NN_分所_terminal
+| | | | | | | | | | | CC_和_terminal
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NP-PN
+| | | | | | | | | | | | | NR_上海市_terminal
+| | | | | | | | | | | | NP-PN
+| | | | | | | | | | | | | NR_浦东_terminal
+| | | | | | | | | | | | NP
+| | | | | | | | | | | | | ADJP
+| | | | | | | | | | | | | | JJ_继续_terminal
+| | | | | | | | | | | | | NP
+| | | | | | | | | | | | | | NN_教育_terminal
+| | | | | | | | | | | | NP
+| | | | | | | | | | | | | NN_中心_terminal
+| | | | | | | | | PU_，_terminal
+| | | | | | | | | PP
+| | | | | | | | | | P_与_terminal
+| | | | | | | | | | NP
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NR_美国_terminal
+| | | | | | | | | | | | NN_知识_terminal
+| | | | | | | | | | | | NN_信息_terminal
+| | | | | | | | | | | | NN_网络_terminal
+| | | | | | | | | | | | NN_公司_terminal
+| | | | | | | | | | | PU_、_terminal
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NN_世界_terminal
+| | | | | | | | | | | | NN_学习_terminal
+| | | | | | | | | | | | NN_组织_terminal
+| | | | | | | | | | | PU_、_terminal
+| | | | | | | | | | | NP-PN
+| | | | | | | | | | | | NR_海赛克_terminal
+| | | | | | | | | | | | NN_公司_terminal
+| | | | | | | | | VP
+| | | | | | | | | | VV_签订_terminal
+| | | | | | | DEC_的_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | NP-SBJ
+| | | | NP-APP
+| | | | | NP-PN
+| | | | | | NN_知识_terminal
+| | | | | | NN_信息_terminal
+| | | | | | NN_网络_terminal
+| | | | | | NN_公司_terminal
+| | | | | NP
+| | | | | | NN_主席_terminal
+| | | | NP-PN
+| | | | | NR_ＣＥ麦奈特_terminal
+| | | VP
+| | | | PP-LOC
+| | | | | P_在_terminal
+| | | | | LCP
+| | | | | | NP
+| | | | | | | NN_签字_terminal
+| | | | | | | NN_仪式_terminal
+| | | | | | LC_上_terminal
+| | | | VP
+| | | | | VV_说_terminal
+| | | | | PU_，_terminal
+| | | | | IP-OBJ
+| | | | | | NP-SBJ
+| | | | | | | DNP
+| | | | | | | | NP
+| | | | | | | | | NP
+| | | | | | | | | | NP-PN
+| | | | | | | | | | | NR_中_terminal
+| | | | | | | | | | | NR_美_terminal
+| | | | | | | | | | NP
+| | | | | | | | | | | NN_合作_terminal
+| | | | | | | | | NP
+| | | | | | | | | | ADJP
+| | | | | | | | | | | JJ_高_terminal
+| | | | | | | | | | NP
+| | | | | | | | | | | NN_科技_terminal
+| | | | | | | | | NP
+| | | | | | | | | | NN_项目_terminal
+| | | | | | | | DEG_的_terminal
+| | | | | | | NP
+| | | | | | | | NN_签订_terminal
+| | | | | | PU_，_terminal
+| | | | | | VP
+| | | | | | | VV_具有_terminal
+| | | | | | | NP-OBJ
+| | | | | | | | CP
+| | | | | | | | | WHNP-1
+| | | | | | | | | | -NONE-_*OP*_terminal
+| | | | | | | | | CP
+| | | | | | | | | | IP
+| | | | | | | | | | | NP-SBJ
+| | | | | | | | | | | | -NONE-_*T*-1_terminal
+| | | | | | | | | | | VP
+| | | | | | | | | | | | VA_重要_terminal
+| | | | | | | | | | DEC_的_terminal
+| | | | | | | | NP
+| | | | | | | | | NN_意义_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | NP-SBJ
+| | | | PN_他_terminal
+| | | VP
+| | | | ADVP
+| | | | | AD_还_terminal
+| | | | VP
+| | | | | VV_期望_terminal
+| | | | | IP-OBJ
+| | | | | | IP
+| | | | | | | LCP-SBJ
+| | | | | | | | NP-PN
+| | | | | | | | | NR_美_terminal
+| | | | | | | | | NR_中_terminal
+| | | | | | | | LC_之间_terminal
+| | | | | | | VP
+| | | | | | | | VV_建立_terminal
+| | | | | | | | NP-OBJ
+| | | | | | | | | NP
+| | | | | | | | | | NN_电子_terminal
+| | | | | | | | | ADJP
+| | | | | | | | | | JJ_高速_terminal
+| | | | | | | | | NP
+| | | | | | | | | | NN_信息_terminal
+| | | | | | | | | | NN_公路_terminal
+| | | | | | PU_，_terminal
+| | | | | | IP
+| | | | | | | NP-SBJ
+| | | | | | | | -NONE-_*pro*_terminal
+| | | | | | | VP
+| | | | | | | | VV_使_terminal
+| | | | | | | | NP-OBJ
+| | | | | | | | | NP-PN
+| | | | | | | | | | NR_纽约_terminal
+| | | | | | | | | | NN_股票_terminal
+| | | | | | | | | | NN_交易所_terminal
+| | | | | | | | | CC_与_terminal
+| | | | | | | | | NP-PN
+| | | | | | | | | | NR_上海_terminal
+| | | | | | | | | | NN_证券_terminal
+| | | | | | | | | | NN_交易所_terminal
+| | | | | | | | IP
+| | | | | | | | | NP-SBJ
+| | | | | | | | | | -NONE-_*PRO*_terminal
+| | | | | | | | | VP
+| | | | | | | | | | VV_能_terminal
+| | | | | | | | | | VP
+| | | | | | | | | | | ADVP
+| | | | | | | | | | | | AD_早日_terminal
+| | | | | | | | | | | VP
+| | | | | | | | | | | | VV_实现_terminal
+| | | | | | | | | | | | NP-OBJ
+| | | | | | | | | | | | | NN_交易_terminal
+| | | | | | | | | | | | | CC_及_terminal
+| | | | | | | | | | | | | NN_信息_terminal
+| | | | | | | | | | | | | NN_交流_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | NP-SBJ
+| | | | NP-APP
+| | | | | NP-PN
+| | | | | | NN_世界_terminal
+| | | | | | NN_学习_terminal
+| | | | | | NN_组织_terminal
+| | | | | NP
+| | | | | | NN_董事长_terminal
+| | | | NP-PN
+| | | | | NR_朱迪·梅罗_terminal
+| | | VP
+| | | | VV_希望_terminal
+| | | | IP-OBJ
+| | | | | NP-SBJ
+| | | | | | -NONE-_*pro*_terminal
+| | | | | VP
+| | | | | | PP-TMP
+| | | | | | | P_在_terminal
+| | | | | | | LCP
+| | | | | | | | NP
+| | | | | | | | | NT_今年_terminal
+| | | | | | | | LC_底_terminal
+| | | | | | PP
+| | | | | | | P_与_terminal
+| | | | | | | NP-PN
+| | | | | | | | NR_上海_terminal
+| | | | | | VP
+| | | | | | | VV_建立_terminal
+| | | | | | | NP-OBJ
+| | | | | | | | QP
+| | | | | | | | | CD_一_terminal
+| | | | | | | | | CLP
+| | | | | | | | | | M_个_terminal
+| | | | | | | | DNP
+| | | | | | | | | ADJP
+| | | | | | | | | | JJ_合资_terminal
+| | | | | | | | | DEG_的_terminal
+| | | | | | | | NP
+| | | | | | | | | NN_教育_terminal
+| | | | | | | | | NN_机构_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | IP
+| | | PP
+| | | | P_据_terminal
+| | | | IP
+| | | | | NP-SBJ
+| | | | | | NP-PN
+| | | | | | | NN_美方_terminal
+| | | | | | NP
+| | | | | | | NN_人员_terminal
+| | | | | VP
+| | | | | | VV_说_terminal
+| | | PU_，_terminal
+| | | NP-SBJ
+| | | | CP
+| | | | | WHNP-1
+| | | | | | -NONE-_*OP*_terminal
+| | | | | CP
+| | | | | | IP
+| | | | | | | NP-SBJ
+| | | | | | | | -NONE-_*T*-1_terminal
+| | | | | | | VP
+| | | | | | | | NP-TMP
+| | | | | | | | | NT_今天_terminal
+| | | | | | | | VP
+| | | | | | | | | VV_签订_terminal
+| | | | | | DEC_的_terminal
+| | | | QP
+| | | | | CD_三_terminal
+| | | | | CLP
+| | | | | | M_个_terminal
+| | | | NP
+| | | | | NN_项目_terminal
+| | | PU_，_terminal
+| | | VP
+| | | | VV_得到_terminal
+| | | | NP-OBJ
+| | | | | DNP
+| | | | | | NP
+| | | | | | | CP
+| | | | | | | | WHNP-2
+| | | | | | | | | -NONE-_*OP*_terminal
+| | | | | | | | CP
+| | | | | | | | | IP
+| | | | | | | | | | NP-SBJ
+| | | | | | | | | | | -NONE-_*T*-2_terminal
+| | | | | | | | | | VP
+| | | | | | | | | | | VV_前来_terminal
+| | | | | | | | | | | NP-PN-OBJ
+| | | | | | | | | | | | NR_上海_terminal
+| | | | | | | | | DEC_的_terminal
+| | | | | | | NP-APP
+| | | | | | | | NP-PN
+| | | | | | | | | NR_美国_terminal
+| | | | | | | | NP
+| | | | | | | | | NN_商务_terminal
+| | | | | | | | | NN_部长_terminal
+| | | | | | | NP-PN
+| | | | | | | | NR_布朗_terminal
+| | | | | | DEG_的_terminal
+| | | | | NP
+| | | | | | NN_关心_terminal
+| | | | | | CC_与_terminal
+| | | | | | NN_支持_terminal
+| | | PU_。_terminal
+
+TOP
+| S
+| | FRAG
+| | | PU_（_terminal
+| | | VV_完_terminal
+| | | PU_）_terminal
+

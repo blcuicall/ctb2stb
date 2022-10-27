@@ -1,0 +1,77 @@
+<ju dct="0">
+  <xj>
+    <sbj>
+      <adv>
+        <t sen="001">上午</t>
+      </adv>
+      <adv>
+        <pp>
+          <p sen="007">在</p>
+        </pp>
+        <r sen="001">这里</r>
+      </adv>
+      <prd scp="V">
+        <v sen="001">签字</v>
+      </prd>
+      <uv>
+        <u sen="002">的</u>
+      </uv>
+    </sbj>
+    <prd scp="VO">
+      <v>是</v>
+    </prd>
+    <obj>
+      <n mod="n2 n2 n2 n2 n2">
+        <n>知识</n>
+        <n sen="001">信息</n>
+        <n sen="002">网络</n>
+        <n sen="001">通讯</n>
+        <n sen="001">技术</n>
+      </n>
+      <cc fun="COO">
+        <c sen="103">和</c>
+      </cc>
+      <m mod="n6 n2 n2">
+        <n sen="001">脱氧核糖核酸</n>
+        <n sen="001">生物</n>
+        <n sen="001">技术</n>
+      </m>
+      <cc fun="APP" />
+      <att>
+        <a mod="m q">
+          <m sen="001">两</m>
+          <q sen="101">个</q>
+        </a>
+      </att>
+      <n sen="001">项目</n>
+      <w>，</w>
+    </obj>
+  </xj>
+  <xj>
+    <sbj>
+      <x></x>
+    </sbj>
+    <adv>
+      <d sen="001">同时</d>
+    </adv>
+    <adv>
+      <d>还</d>
+    </adv>
+    <prd scp="VO">
+      <v sen="001">签订</v>
+    </prd>
+    <uv>
+      <u sen="002">了</u>
+    </uv>
+    <obj>
+      <n mod="n2 n2 n2 n2 n2">
+        <n sen="001">语言</n>
+        <n>教学</n>
+        <n sen="002">交流</n>
+        <n sen="001">合作</n>
+        <n sen="002">协议</n>
+      </n>
+      <w>。</w>
+    </obj>
+  </xj>
+</ju>
