@@ -41,7 +41,7 @@ python eval_tag.py
 
 ## 引用
 
-```tex
+```bibtex
 @inproceedings{xie-etal-2022-ctb2stb,
     title = "句式结构树库的自动构建研究",
     author = "谢, 晨晖 and
@@ -98,7 +98,7 @@ python eval_tag.py
 
 ## Citation
 
-```tex
+```bibtex
 @inproceedings{xie-etal-2022-ctb2stb,
     title = "Automatic Construction of Sentence Pattern Structure Treebank",
     author = "Xie, Chenhui and
